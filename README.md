@@ -30,3 +30,8 @@ Dataset used: WHITED
 
   </ul>
 
+## accuracy chart 
+
+![](plot.png)
+
+
