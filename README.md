@@ -14,17 +14,19 @@ Dataset used: WHITED
  
  Features used:
 <ul>
-    <li> Active power RMS</li>
-    </ul>
--- Reactive power RMS
--- Total power RMS
-- Power factor
--- Maximum active power 
--- Minimum active power
--- Voltage RMS value 
-Current RMS value
-Current total harmonic distortion
-Current crest factor
-Current harmonics
-Wavelet Ceptral coefficients  
+    <li> Active power RMS </li>
+  
+<li> Reactive power RMS </li>
+<li> Total power RMS </li>
+<li> Power factor </li> </li>
+<li> Maximum active power </li> 
+<li> Minimum active power </li>
+<li> Voltage RMS value </li>
+<li> Current RMS value </li>
+<li> Current total harmonic distortion </li>
+<li> Current crest factor </li>
+<li> Current harmonics </li>
+<li> Wavelet Ceptral coefficients  </li> 
+
+  </ul>
 
