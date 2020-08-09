@@ -13,8 +13,9 @@ Dataset used: WHITED
           
  
  Features used:
-
-   -- Active power RMS
+<ul>
+    <li> Active power RMS</li>
+    </ul>
 -- Reactive power RMS
 -- Total power RMS
 - Power factor
