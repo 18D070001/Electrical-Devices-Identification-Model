@@ -297,16 +297,10 @@ Combining those features we are achieving around 99.3 % accuracy.
 
  ## REFERENCES :
 
-A Feature-Based Model for the Identification of Electrical Devices in Smart Environments
-LOW COMPLEXITY FEATURE EXTRACTION FOR CLASSIFICATION OF HARMONIC SIGNALS
+
 https://www.ttu.ee/public/p/proaktiivtehnoloogiate_teaduslaboratoorium/dissertations/sergei_astapov_-_feature_extraction_from_band-limited_signals_and_classification_of_features_msc_thesis.pdf  
-Extracting accurate time-domain features from vibration signals for reliable classification of bearing faults
-Appliance-specific power usage classification and disaggregation
-Machine Learning Approaches for Electric Appliance Classification   
-An Empirical Investigation of VI Trajectory based Load Signatures for Non-Intrusive Load Monitoring
-Comprehensive Feature Selection for Appliance Classification in NILM 
- WHITED - A Worldwide Household and Industry Transient Energy Data Set
- Non-Intrusive Appliance Monitoring System Using Machine Learning Algorithms in Residential Sectors 
+
+ 
 http://www.dainf.ct.utfpr.edu.br/~douglas/LIT_Dataset/index.html 
 
 
