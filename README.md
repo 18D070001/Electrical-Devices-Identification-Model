@@ -278,7 +278,6 @@ Accuracy: 15 %
 
 
 12) AREA ENCLOSED BY  V-I TRAJECTORY
-
 Accuracy: 53 %
 
 
